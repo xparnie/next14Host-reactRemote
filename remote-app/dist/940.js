@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknextjs_react_remote_app=self.webpackChunknextjs_react_remote_app||[]).push([[940],{940:(e,t,o)=>{o.r(t),o.d(t,{default:()=>r});var n=o(517),s=o(529),a=o.n(s);const c=(0,n.styled)("button",{background:"#4b4be8",color:"#fff",padding:12}),r=e=>((0,s.useEffect)((()=>{console.log("hooks work")}),[]),a().createElement(c,null,"Remote Button"))}}]);
